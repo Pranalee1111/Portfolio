@@ -1,6 +1,6 @@
 # Portfolio
 This is my portfolio website as a frontend developer.
 # Technologies Used:
-HTML
-CSS
+HTML<br>
+CSS<br>
 Bootstrap
